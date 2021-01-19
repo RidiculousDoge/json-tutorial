@@ -1,0 +1,4 @@
+/home/gurui/Desktop/projects/json-tutorial/tutorial02/CMakeFiles/edit_cache.dir
+/home/gurui/Desktop/projects/json-tutorial/tutorial02/CMakeFiles/rebuild_cache.dir
+/home/gurui/Desktop/projects/json-tutorial/tutorial02/CMakeFiles/leptjson.dir
+/home/gurui/Desktop/projects/json-tutorial/tutorial02/CMakeFiles/leptjson_test.dir
